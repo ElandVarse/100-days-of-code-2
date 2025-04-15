@@ -3,11 +3,16 @@
 
 ### Day 0: April 14, 2025
 
-**Today's Progress**: ...
+**Today's Progress**: I've been working a lot on a project that a friend of mine suggested.
+It's about an Angular drag-and-drop app using Python as the backend.
+It's pretty good because it's helping me improve my full-stack skills.
 
-**Thoughts:** ...
+I learned a lot about Python and backend today.
 
-**Link to work:** [...](...)
+**Thoughts:** It's impressive what Chat-GPT can do. I never thought I was going to learn fast like that.
+
+**Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/angular-drag-n-drop)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
