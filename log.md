@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 0: April 14, 2025
+### Day 0: April 14, Monday, 2025
 
 **Today's Progress**: I've been working a lot on a project that a friend of mine suggested.
 It's about an Angular drag-and-drop app using Python as the backend.
@@ -13,6 +13,16 @@ I learned a lot about Python and backend today.
 
 **Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/angular-drag-n-drop)
 
+
+### Day 1: April 15, Tuesday, 2025
+
+**Today's Progress**: With the help of chatGPT, I created a basic structure for the frontend, which requests the data and sends it to my Python backend via a POST method.
+
+**Thoughts** It's a very simple application that transforms numbers in another numbers. Great project to learn.
+
+![Mockup](/assets/pipeline-runner-01.png)
+
+**Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/angular-drag-n-drop)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
