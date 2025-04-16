@@ -13,6 +13,7 @@ I learned a lot about Python and backend today.
 
 **Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/angular-drag-n-drop)
 
+---
 
 ### Day 1: April 15, Tuesday, 2025
 
