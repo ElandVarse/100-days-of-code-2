@@ -25,6 +25,14 @@ I learned a lot about Python and backend today.
 
 **Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/angular-drag-n-drop)
 
+### Day 1: April 16, Wednesday, 2025
+
+**Today's Progress**: Had some trouble with ChatGPT, so I decided to start a new project using Angular and Python — a sort of Trello clone. I installed everything and created some components, but I didn’t like the results and ended up restarting the project… like, three times. Let’s see what happens tomorrow.
+
+**Thoughts** What I really like to do is make videos, but I noticed that I was just creating the same kind of content as everyone else on YouTube. So now I'm thinking about how I can be truly original. In fact, I'm very tired and sleepy right now.
+
+**Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/drag-n-drop)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
