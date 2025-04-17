@@ -33,6 +33,23 @@ I learned a lot about Python and backend today.
 
 **Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/drag-n-drop)
 
+### Day 3: April 17, Thursday, 2025
+
+**Today's Progress**: Decided to start a new project today. In fact, I decided to revive an old project of mine that I had lost. It's my portfolio, with my animations and stuff.
+
+I decided to use a new web technology called Astro for this one.
+
+My plan is to fill it with the things I like — lots of animations and cool effects, link my videos, and...
+
+YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
+
+**Thoughts** I'm excited 😈
+
+![Mockup](/assets/andre-pereira-gif-background-1.gif)
+
+**Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
