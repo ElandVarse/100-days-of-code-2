@@ -55,7 +55,7 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 **Thoughts** It's cool, like a game.
 
-![Player walking](/assets/player_walking.png)
+![Player walking](/assets/player_walking.gif)
 
 **Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
 
