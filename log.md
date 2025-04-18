@@ -45,9 +45,20 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 **Thoughts** I'm excited 😈
 
-![Mockup](/assets/andre-pereira-gif-background-1.gif)
+![Background](/assets/andre-pereira-gif-background-1.gif)
 
 **Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
+
+### Day 4: April 18, Friday, 2025
+
+**Today's Progress**: More than 1 hour today, I generated some images with chatGPT and implemented a second screen below the first screen in my website. Learning a lot about this Astro technology.
+
+**Thoughts** It's cool, like a game.
+
+![Player walking](/assets/player_walking.png)
+
+**Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
