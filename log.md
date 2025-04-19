@@ -25,6 +25,8 @@ I learned a lot about Python and backend today.
 
 **Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/angular-drag-n-drop)
 
+---
+
 ### Day 2: April 16, Wednesday, 2025
 
 **Today's Progress**: Had some trouble with ChatGPT, so I decided to start a new project using Angular and Python — a sort of Trello clone. I installed everything and created some components, but I didn’t like the results and ended up restarting the project… like, three times. Let’s see what happens tomorrow.
@@ -32,6 +34,8 @@ I learned a lot about Python and backend today.
 **Thoughts** What I really like to do is make videos, but I noticed that I was just creating the same kind of content as everyone else on YouTube. So now I'm thinking about how I can be truly original. In fact, I'm very tired and sleepy right now.
 
 **Link to work:** [angular-drag-n-drop](https://github.com/ElandVarse/drag-n-drop)
+
+---
 
 ### Day 3: April 17, Thursday, 2025
 
@@ -47,6 +51,8 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 ![Background](/assets/andre-pereira-gif-background-1.gif)
 
+---
+
 **Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
 
 ### Day 4: April 18, Friday, 2025
@@ -56,6 +62,19 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 **Thoughts** It's cool, like a game.
 
 ![Player walking](/assets/player_walking.gif)
+
+**Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
+
+---
+
+### Day 5: April 19, Saturday, 2025
+
+**Today's Progress**: Working with visuals and some animation tweaks. 
+
+
+**Thoughts** Very Nice (Borat accent).
+
+![Player walking](/assets/clouds-and-dino.gif)
 
 **Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
 
