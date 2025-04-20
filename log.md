@@ -61,7 +61,7 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 **Thoughts** It's cool, like a game.
 
-![Player walking](/assets/player_walking.gif)
+![Portfolio](/assets/player_walking.gif)
 
 **Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
 
@@ -74,11 +74,22 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 **Thoughts** Very Nice (Borat accent).
 
-![Player walking](/assets/clouds-and-dino.gif)
+![Portfolio](/assets/clouds-and-dino.gif)
 
 **Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
 
+---
 
+### Day 6: April 20, Sunday, 2025
+
+**Today's Progress**: I was thinking about making some programs with Java yesterday. Today, I decided not to work on my portfolio and instead create some things with Java. I asked ChatGPT for a little help, and together we made some Hello World programs and a calculator. All of that was to help me learn more about interfaces in Java — something I’ve always been interested in.
+
+
+**Thoughts** Today is a beautiful day, but it seems like it's gonna rain.
+
+![Java Calculator](/assets/java-calculator.png)
+
+**Link to work:** [andre-pereira](https://github.com/ElandVarse/java-studies)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
