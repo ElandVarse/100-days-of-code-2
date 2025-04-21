@@ -89,7 +89,17 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 ![Java Calculator](/assets/java-calculator.png)
 
-**Link to work:** [andre-pereira](https://github.com/ElandVarse/java-studies)
+**Link to work:** [Java Studies](https://github.com/ElandVarse/java-studies)
+
+---
+
+### Day 7: April 21, Monday, 2025
+
+**Today's Progress**: Today I decided to give Python a try, and with a little help from ChatGPT, we made some fun little projects. I believe I learned a lot about the language. We built a snake game, a CSV analyzer, a guess-the-number game, and of course, a Hello World function. I also asked about AI development, but I guess it's a bit out of my scope for now...
+
+**Thoughts** BORING. But we gotta do what we gotta do.
+
+**Link to work:** [Python Studies](https://github.com/ElandVarse/python-studies)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
