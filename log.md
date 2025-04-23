@@ -115,6 +115,21 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 ![Modal](/assets/modal.png)
 
+---
+
+### Day 9: April 23, Wednesday, 2025
+
+**Today's Progress**: Did some animation tweaks in the about me modal in my porfolio, and also started learning some cybersecurity in tryhackme.
+
+**Thoughts** Uhhhh hackerisms.
+
+
+**Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
+
+**Link to work:** [TryHackMe](https://tryhackme.com/p/andre.jobs23)
+
+![Modal](/assets/modal-animation.gif)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
