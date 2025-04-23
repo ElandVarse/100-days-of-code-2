@@ -101,6 +101,20 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 **Link to work:** [Python Studies](https://github.com/ElandVarse/python-studies)
 
+---
+
+### Day 8: April 22, Tuesday, 2025
+
+**Today's Progress**: Went to a little running earlier, today I was a little off head, not really sure what I wanted to learn. So I asked chat gpt to teach me a little of C++. I also looked for some repos so that I can help. I finish my hour working on my portfolio, I did a fast modal for an "About Me" section.
+
+**Thoughts** I want a job.
+
+**Link to work:** [C-studies](https://github.com/ElandVarse/c-studies)
+
+**Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
+
+![Modal](/assets/modal.png)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
