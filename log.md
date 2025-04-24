@@ -128,7 +128,21 @@ YEAAAAAH, LESSSSS GOOOOOOOOO!!! 😤🚀
 
 **Link to work:** [TryHackMe](https://tryhackme.com/p/andre.jobs23)
 
-![Modal](/assets/modal-animation.gif)
+---
+
+### Day 10: April 24, Thursday, 2025
+
+**Today's Progress**: Today, I just decided to put a dancing baby in the project's popup — don't ask me why. 
+Learned a lot about open ports and SSH today.
+I even made a port scanner to check them, with a little help from GPT.
+Let's go.
+
+**Thoughts** Oh my god I can't believe it, I never been this far away from home.
+
+**Link to work:** [andre-pereira](https://github.com/ElandVarse/andre-pereira)
+**Link to work:** [Python Studies](https://github.com/ElandVarse/python-studies)
+
+![Baby Dancing](/assets/baby-dancing.gif)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
