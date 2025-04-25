@@ -152,8 +152,6 @@ Let's go.
 
 **Link to work:** [Python Studies](https://github.com/ElandVarse/python-studies)
 
-![Baby Dancing](/assets/baby-dancing.gif)
-
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
