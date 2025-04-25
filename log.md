@@ -144,6 +144,17 @@ Let's go.
 
 ![Baby Dancing](/assets/baby-dancing.gif)
 
+### Day 11: April 25, Friday, 2025
+
+**Today's Progress**: Decided to spent my time learning about ethical hacking today, I learned a lot about sql injection. Etc.
+
+**Thoughts**: I'm discovering how to be amazing.
+
+**Link to work:** [Python Studies](https://github.com/ElandVarse/python-studies)
+
+![Baby Dancing](/assets/baby-dancing.gif)
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
