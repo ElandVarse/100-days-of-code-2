@@ -144,6 +144,8 @@ Let's go.
 
 ![Baby Dancing](/assets/baby-dancing.gif)
 
+---
+
 ### Day 11: April 25, Friday, 2025
 
 **Today's Progress**: Decided to spent my time learning about ethical hacking today, I learned a lot about sql injection. Etc.
@@ -151,6 +153,18 @@ Let's go.
 **Thoughts**: I'm discovering how to be amazing.
 
 **Link to work:** [Python Studies](https://github.com/ElandVarse/python-studies)
+
+---
+
+### Day 12: April 26, Saturday, 2025
+
+**Today's Progress**: I decided to work on mobile development today. I went back to an old project — a game app focused on solving puzzles. I also started using a new AI called Cline to help with programming. It's a bit crazy sometimes, but when combined with GPT, things can get very interesting.
+
+**Thoughts**: Robots are stealing my jobs.
+
+**Link to work:** [Enigma Sombra](https://github.com/ElandVarse/enigmas-sombra)
+
+![Enigma Sombra](/assets/enigma-sombra.gif)
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
