@@ -166,6 +166,18 @@ Let's go.
 
 ![Enigma Sombra](/assets/enigma-sombra.gif)
 
+---
+
+### Day 13: April 27, Sunday, 2025
+
+**Today's Progress**: I started to do some research about cloud computing and I ended up making an CRUD application with Python to learn more about SQL em backend. Very funny thing.
+
+**Thoughts**: It's no joke.
+
+**Link to work:** [CRUD-PythonSQL](https://github.com/ElandVarse?tab=repositories)
+
+![CRUD-Python-sql](/assets/crud-python.webm)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
