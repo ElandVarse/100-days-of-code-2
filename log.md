@@ -178,6 +178,19 @@ Let's go.
 
 ![CRUD-Python-sql](/assets/crud-python.webm)
 
+---
+
+### Day 14: April 28, Monday, 2025
+
+**Today's Progress**: Today, my work was more focused on the mind. I spent some time reading about Shopify apps, and to make sure I actually did something, I decided to create a frontend for my Python CRUD application using Angular. My plan is to create a popup menu that opens when you interact with the items in the main menu. It's very ugly, I know — I don't master Angular yet.
+
+**Thoughts**: Mayonaka no joke.
+
+**Link to work:** [CRUD-PythonSQL](https://github.com/ElandVarse?tab=repositories)
+
+![CRUD-Python-sql](/assets/crud-python-overlay.png)
+
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
