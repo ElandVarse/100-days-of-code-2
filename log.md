@@ -190,6 +190,18 @@ Let's go.
 
 ![CRUD-Python-sql](/assets/crud-python-overlay.png)
 
+---
+
+### Day 15: April 29, Tuesday, 2025
+
+**Today's Progress**: I think I made good progress on the Python CRUD menu. Frontend is way harder than backend — I gotta admit it. Anyway, I created logic that returns a conditional menu based on the item the user clicked. I spent 50 minutes on that, and with the last 10 minutes, I added some basic styling so it wouldn’t look so ugly.
+
+**Thoughts**: Intankable.
+
+**Link to work:** [CRUD-PythonSQL](https://github.com/ElandVarse?tab=repositories)
+
+![CRUD-Python-sql](/assets/crud-python-day-2.gif)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
