@@ -202,6 +202,18 @@ Let's go.
 
 ![CRUD-Python-sql](/assets/crud-python-day-2.gif)
 
+---
+
+### Day 16: April 30, Wednesday, 2025
+
+**Today's Progress**: Today I styled the submenus of my Python CRUD application. The frontend is powered by Angular.
+
+**Thoughts**: Got a lot of things to do today.
+
+**Link to work:** [CRUD-PythonSQL](https://github.com/ElandVarse?tab=repositories)
+
+![CRUD-Python-sql](/assets/crud-python-day-3.gif)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
