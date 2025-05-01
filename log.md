@@ -214,6 +214,18 @@ Let's go.
 
 ![CRUD-Python-sql](/assets/crud-python-day-3.gif)
 
+---
+
+### Day 17: May 1, Thursday, 2025
+
+**Today's Progress**: I spent over an hour today just to make sure the frontend is fully connected to the backend. So basically, my CRUD is done — and I thought it was easy to build, thanks to ChatGPT’s help. I learned a lot from this project and I want to use more Python in the future, maybe even do something related to AI.
+
+**Thoughts**: Now, I'm gonna play some oblivion in peace.
+
+**Link to work:** [CRUD-PythonSQL](https://github.com/ElandVarse?tab=repositories)
+
+![CRUD-Python-sql](/assets/crud-python-day-4.gif)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
