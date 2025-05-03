@@ -226,6 +226,23 @@ Let's go.
 
 ![CRUD-Python-sql](/assets/crud-python-day-4.gif)
 
+---
+
+### Day 18: May 2, Friday, 2025
+
+**Today's Progress**: I did something very interesting tonight. First of all, I fixed some bugs I had left in the Python CRUD. Then I worked on my puzzle Android app and implemented a logic to process the answers and move to the next puzzle. Now, I’ve just built a Hello World application in Android Studio. I’m thinking about creating a simple app to read and interpret EPUB files, so I can read my books without ads.
+
+**Thoughts**: Friend of mine got his phone stolen today, I feel bad.
+
+**Link to work:** [CRUD-PythonSQL](https://github.com/ElandVarse?tab=repositories)
+
+**Link to work:** [Enigma-Sombra](https://github.com/ElandVarse/enigmas-sombra)
+
+**Link to work:** [Android-Studio](https://github.com/ElandVarse/android-studio)
+
+![CRUD-Python-sql](/assets/enigma-sombra-answer.gif)
+
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
