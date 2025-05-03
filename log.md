@@ -242,6 +242,17 @@ Let's go.
 
 ![CRUD-Python-sql](/assets/enigma-sombra-answer.gif)
 
+---
+
+### Day 19: May 3, Saturday, 2025
+
+**Today's Progress**: Today I made a click counter in Android Studio.
+
+**Thoughts**: Very boring and hard. Still Learning I guess
+
+**Link to work:** [Android-Studio](https://github.com/ElandVarse/android-studio)
+
+![CRUD-Python-sql](/assets/click-counter-android.gif)
 
 
 
