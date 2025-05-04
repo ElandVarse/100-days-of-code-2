@@ -254,6 +254,15 @@ Let's go.
 
 ![CRUD-Python-sql](/assets/click-counter-android.gif)
 
+---
+
+### Day 20: May 4, Sunday, 2025
+
+**Today's Progress**: In Android Studio, I started the epubReader project but ran into a lot of issues with imports and libraries. I guess I need to explore other options to see what works.
+
+**Thoughts**: I'm hating android studio. 
+
+**Link to work:** [Epub-Reader](https://github.com/ElandVarse/EpubReader)
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
