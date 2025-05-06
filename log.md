@@ -264,6 +264,19 @@ Let's go.
 
 **Link to work:** [Epub-Reader](https://github.com/ElandVarse/EpubReader)
 
+---
+
+### Day 20: May 4, Sunday, 2025
+
+**Today's Progress**: I'm going to slow down a bit with the ebook reader while I properly learn how everything works in the Android Studio environment and Kotlin programming.
+
+Today I decided to go back to the basics — printed some text and an image on the screen, wrapping it up with this lovely tribute to #nintendo 😍
+
+**Thoughts**: Learning...
+
+**Link to work:** [Epub-Reader](https://github.com/ElandVarse/EpubReader)
+
+![hello-mario](/assets/mario.gif)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
