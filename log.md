@@ -290,6 +290,18 @@ Today I decided to go back to the basics — printed some text and an image on t
 
 ![hello-mario](/assets/itskerbie.gif)
 
+---
+
+### Day 23: May 7, Wednesday, 2025
+
+**Today's Progress**: Built the structure for the Puzzle Stages screen.
+
+**Thoughts**: Today was tough.
+
+**Link to work:** [Enigma-Sombra](https://github.com/ElandVarse/enigmas-sombra)
+
+![hello-mario](/assets/fases.gif)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
