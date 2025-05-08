@@ -288,7 +288,7 @@ Today I decided to go back to the basics — printed some text and an image on t
 
 **Link to work:** [Epub-Reader](https://github.com/ElandVarse/HelloMario)
 
-![hello-mario](/assets/itskerbie.gif)
+![It's-kerbie](/assets/itskerbie.gif)
 
 ---
 
@@ -300,7 +300,26 @@ Today I decided to go back to the basics — printed some text and an image on t
 
 **Link to work:** [Enigma-Sombra](https://github.com/ElandVarse/enigmas-sombra)
 
-![hello-mario](/assets/fases.gif)
+![Phases](/assets/fases.gif)
+
+
+---
+
+### Day 24: May 8, Thursday, 2025
+
+**Today's Progress**: Felt like making a lava lamp today. I’ve been wrestling with how to simulate that liquid in a visually pleasing and physically satisfying way. Ended up playing around with two pretty interesting libraries focused on that:
+
+Matter.js – Simulates 2D physics with rigid bodies, collisions, gravity, and realistic object interactions. Great for games, animations, and anything that needs physical behavior. Really fun for game-like stuff.
+🔗 https://brm.io/matter-js/
+
+LiquidFun – Simulates fluids and particles with organic behavior, like liquids that deform, flow, and merge together.
+🔗 https://google.github.io/liquidfun/
+
+**Thoughts**: Not what I want yet.
+
+**Link to work:** [LAVA-LAMP](https://github.com/ElandVarse/Lava-Lamp)
+
+![hello-mario](/assets/lava-lamp.gif)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
