@@ -319,6 +319,18 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 **Link to work:** [LAVA-LAMP](https://github.com/ElandVarse/Lava-Lamp)
 
+![lava-lamp](/assets/lava-lamp.gif)
+
+---
+
+### Day 25: May 9, Friday, 2025
+
+**Today's Progress**: Did a simple chatbot with python today, and a leetcode challenge.
+
+**Thoughts**: It's friday ok.
+
+**Link to work:** [python-studies](https://github.com/ElandVarse/python-studies)
+
 ![hello-mario](/assets/lava-lamp.gif)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
