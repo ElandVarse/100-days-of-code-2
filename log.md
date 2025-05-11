@@ -333,6 +333,14 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 ![hello-mario](/assets/lava-lamp.gif)
 
+---
+
+### Day 26: May 10, Saturday, 2025 - Lost Day
+
+**Today's Progress**: Lost day.
+
+**Thoughts**: Minecraft movie.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
