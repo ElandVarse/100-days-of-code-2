@@ -341,6 +341,18 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 **Thoughts**: Minecraft movie.
 
+---
+
+### Day 27: May 11, Sunday, 2025
+
+**Today's Progress**: Worked on the Stages screen of my react native app today. 
+
+**Thoughts**: Sunday night..
+
+**Link to work:** [Enigma-Sombra](https://github.com/ElandVarse/enigmas-sombra)
+
+![hello-mario](/assets/enigma-sombra-locked-boxes.gif)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
