@@ -353,6 +353,18 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 ![hello-mario](/assets/enigma-sombra-locked-boxes.gif)
 
+---
+
+### Day 28: May 12, Monday, 2025
+
+**Today's Progress**: I set up a test store using the Dawn theme to play around with some customizations. Also hooked it up to GitHub, which pulled me back into the Git environment — brushing up on issues, branching, and version control habits I hadn’t touched in a while. Nice little refresh!
+
+**Thoughts**: Monday night..
+
+**Link to work:** [Shopify-Theme](https://github.com/ElandVarse/dawn)
+
+![Dawn-Store](/assets/dawn-shopify-day-28.png)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
