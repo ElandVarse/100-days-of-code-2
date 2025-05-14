@@ -365,6 +365,18 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 ![Dawn-Store](/assets/dawn-shopify-day-28.png)
 
+---
+
+### Day 29: May 13, Tuesday, 2025
+
+**Today's Progress**: Worked on some shopify customizations today!
+
+**Thoughts**: It wasn't a good night
+
+**Link to work:** [Shopify-Theme](https://github.com/ElandVarse/dawn)
+
+![Dawn-Store](/assets/el-gato-store-day1.png)
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
