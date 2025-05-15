@@ -377,6 +377,19 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 ![Dawn-Store](/assets/el-gato-store-day1.png)
 
+---
+
+### Day 30: May 14, Wednesday, 2025
+
+**Today's Progress**: Today was all about diving deep into GitHub — exploring issues, pull requests, achievements, and more. I made lots of commits and merges, updated my README.md, and worked on several projects. It was a fun and productive day.
+
+**Thoughts**: I'm interested.
+
+**Link to work:** [Github](https://github.com/ElandVarse)
+
+![Github](/assets/github-learnings.gif)
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
