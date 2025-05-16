@@ -389,6 +389,20 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 ![Github](/assets/github-learnings.gif)
 
+---
+
+### Day 31: May 15, Thursday, 2025
+
+**Today's Progress**: Today I improved the instructions page for the Enigma Sombra and added some contact info to the footer of my portfolio. Did all that while playing around with GitHub issues and pull requests 🤭
+
+Also unlocked the Co-authored achievement on GitHub.
+
+**Thoughts**: Got a few interesting ideas brewing for the next few days... but right now, I’m sleepy 😴
+
+**Link to work:** [Github](https://github.com/ElandVarse)
+
+![Github](/assets/frieren.gif)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
