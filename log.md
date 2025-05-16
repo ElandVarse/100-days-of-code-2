@@ -403,6 +403,18 @@ Also unlocked the Co-authored achievement on GitHub.
 
 ![Github](/assets/frieren.gif)
 
+---
+
+### Day 32: May 16, Friday, 2025
+
+**Today's Progress**: Today I worked on the validations of the pages on my enigma game, basically I blocked smart users do access later puzzles without solving the previous ones before. And clean some mess of pull requests lmao
+
+**Thoughts**: It's friday!! Time to rest (Tears in the rain)
+
+**Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
+
+![Github](/assets/enigma-lock.gif)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
