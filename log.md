@@ -416,6 +416,17 @@ Also unlocked the Co-authored achievement on GitHub.
 ![Github](/assets/enigma-lock.gif)
 
 
+---
+
+### Day 33: May 16, Friday, 2025
+
+**Today's Progress**: Today I worked on a neocities website for me: https://jack-darwin-poseidon.neocities.org/
+
+**Thoughts**: Very funny I love it
+
+![Github](/assets/jackdposeidon.gif.gif)
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
