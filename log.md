@@ -337,7 +337,7 @@ LiquidFun – Simulates fluids and particles with organic behavior, like liquids
 
 ### Day 26: May 10, Saturday, 2025 - Lost Day
 
-**Today's Progress**: Lost day.
+**Today's Progress**: ...
 
 **Thoughts**: Minecraft movie.
 
@@ -418,13 +418,21 @@ Also unlocked the Co-authored achievement on GitHub.
 
 ---
 
-### Day 33: May 16, Friday, 2025
+### Day 33: May 17, Saturday, 2025
 
 **Today's Progress**: Today I worked on a neocities website for me: https://jack-darwin-poseidon.neocities.org/
 
 **Thoughts**: Very funny I love it
 
 ![Github](/assets/jackdposeidon.gif.gif)
+
+---
+
+### Day 33: May 18, Sunday, 2025 - LOST DAY
+
+**Today's Progress**: ...
+
+**Thoughts**: ...
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
