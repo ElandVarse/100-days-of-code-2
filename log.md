@@ -424,7 +424,7 @@ Also unlocked the Co-authored achievement on GitHub.
 
 **Thoughts**: Very funny I love it
 
-![Github](/assets/jackdposeidon.gif.gif)
+![jack-poseidon](/assets/jackdposeidon.gif)
 
 ---
 
@@ -450,6 +450,8 @@ Also unlocked the Co-authored achievement on GitHub.
 
 **Thoughts**: ...
 
+---
+
 ### Day 36: May 21, Wednesday, 2025
 
 **Today's Progress**: Neocities, working with pure html, css, javascript. Implemented C-BOX live chat in the website, pretty cool.  
@@ -458,6 +460,19 @@ Also unlocked the Co-authored achievement on GitHub.
 
 
 **Link to work:** https://jack-darwin-poseidon.neocities.org/
+
+---
+
+### Day 37: May 22, Thursday, 2025
+
+**Today's Progress**: Custom Cursor and aligment changes. 
+
+**Thoughts**: Tired.
+
+
+**Link to work:** https://jack-darwin-poseidon.neocities.org/
+
+![jack-poseidon](/assets/jack-poseidon-custom-cursor.gif)
 
 
 
