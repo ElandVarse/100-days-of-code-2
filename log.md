@@ -434,6 +434,32 @@ Also unlocked the Co-authored achievement on GitHub.
 
 **Thoughts**: ...
 
+---
+
+### Day 34: May 19, Monday, 2025 - LOST DAY
+
+**Today's Progress**: Very tired right now, but I learned a little about docker and cypress in this little moment I had, right now is 22h00. I consider it a lost day because I'm didn't program anything, just read a lot.
+
+**Thoughts**: ...
+
+---
+
+### Day 35: May 20, Tuesday, 2025 - LOST DAY
+
+**Today's Progress**: Didn't commit anything, just studied a little of SOLID principles.
+
+**Thoughts**: ...
+
+### Day 36: May 21, Wednesday, 2025
+
+**Today's Progress**: Neocities, working with pure html, css, javascript. Implemented C-BOX live chat in the website, pretty cool.  
+
+**Thoughts**: No thoughts.
+
+
+**Link to work:** https://jack-darwin-poseidon.neocities.org/
+
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
