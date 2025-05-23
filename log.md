@@ -474,6 +474,19 @@ Also unlocked the Co-authored achievement on GitHub.
 
 ![jack-poseidon](/assets/jack-poseidon-custom-cursor.gif)
 
+---
+
+### Day 38: May 23, Friday, 2025
+
+**Today's Progress**: I developed a simple web application that visually represents the 4-4-6 breathing technique using an animated circle. The goal is to help users practice mindful breathing to reduce anxiety, improve focus, and promote relaxation, using HTML, CSS, and JavaScript.
+
+**Thoughts**: Friday.
+
+
+**Link to work:** https://elandvarse.github.io/RespiraFocus.io/
+
+![respira-focus](/assets/respira-focus.gif)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
