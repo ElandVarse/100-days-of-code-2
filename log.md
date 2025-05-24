@@ -488,6 +488,17 @@ Also unlocked the Co-authored achievement on GitHub.
 ![respira-focus](/assets/respira-focus.gif)
 
 
+---
+
+### Day 39: May 24, Saturday, 2025
+
+**Today's Progress**: Had some trouble today working with Android Studio, trying to develop the EPUB Reader and the Lava Lamp on the web. The Android Studio interface and language are a bit challenging for me right now, and the Lava Lamp needs a proper liquid simulation, which is giving me a headache. So, instead of not committing anything, I switched to Enigma Sombra and built the structure for the Winners page.
+
+**Thoughts**: It's saturday, leave me alone.
+
+
+**Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
