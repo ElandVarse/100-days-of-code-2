@@ -517,7 +517,7 @@ Also unlocked the Co-authored achievement on GitHub.
 
 **Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
 
-![Github](/assets/enigma-lock.gif)
+![Github](/assets/enigma-sombra-unlocking-levels.gif.gif)
 
 
 
