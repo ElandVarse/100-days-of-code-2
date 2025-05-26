@@ -507,6 +507,18 @@ Also unlocked the Co-authored achievement on GitHub.
 
 **Thoughts**: Creative Blockage;
 
+---
+
+### Day 41: May 26, Monday, 2025
+
+**Today's Progress**: Worked with React Native today on the enigma-sombra application. Developed logic for unlocking the next stages as puzzles are solved. Now, when you solve a puzzle and check the stages screen, the next stage will be unlocked and available to play.
+
+**Thoughts**: I have a cold at the moment.
+
+**Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
+
+![Github](/assets/enigma-lock.gif)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
