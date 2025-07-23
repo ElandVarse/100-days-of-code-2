@@ -9,3 +9,13 @@
 **Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
 
 ---
+
+### Day 1: July 22, Tuesday, 2025
+
+**Today's Progress**: Worked on the organization of the project, files, folders, naming. Componentization, things like that.
+
+**Thoughts:** Coming back again, can you believe it?
+
+**Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
+
+---
