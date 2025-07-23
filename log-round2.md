@@ -19,3 +19,13 @@
 **Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
 
 ---
+
+### Day 2: July 23, Wednesday, 2025
+
+**Today's Progress**: I've just finished the Ask For A Tip implementation and created some new issues in the github project.
+
+**Thoughts:** Sorry, did I have to think?
+
+**Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
+
+---
