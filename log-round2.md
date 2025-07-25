@@ -29,3 +29,13 @@
 **Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
 
 ---
+
+### Day 3: July 24, Thursday, 2025
+
+**Today's Progress**: Working on the CLI of the neocities blog.
+
+**Thoughts:** Sorry, do I have to think?
+
+**Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
+
+---
