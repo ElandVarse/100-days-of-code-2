@@ -39,3 +39,13 @@
 **Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
 
 ---
+
+### Day 4: July 25, Friday, 2025
+
+**Today's Progress**: Created a blog Posts structure for my neocities blog. Very cool, I like it. 
+
+**Thoughts:** Sorry, will I have to think?
+
+**Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
+
+---
