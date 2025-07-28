@@ -49,3 +49,14 @@
 **Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
 
 ---
+
+
+### Day 5: July 28, Monday, 2025
+
+**Today's Progress**: Added a counter visitor and google tag manager in the neocities website. I plan to increase traffic of the website in the future. 
+
+**Thoughts:** Maybe I should think... 
+
+**Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
+
+---
