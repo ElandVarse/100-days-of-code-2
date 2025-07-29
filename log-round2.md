@@ -60,3 +60,14 @@
 **Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
 
 ---
+
+
+### Day 6: July 29, Tuesday, 2025
+
+**Today's Progress**: Did a lot of little tweaks and fixes to the frontend of the blog. The thing about old websites is that they were not made for mobile. 
+
+**Thoughts:** To be or not to be.
+
+**Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
+
+---
