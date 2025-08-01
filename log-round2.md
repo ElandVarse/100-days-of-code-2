@@ -71,3 +71,15 @@
 **Link to work:** [Github](https://github.com/ElandVarse?tab=repositories)
 
 ---
+
+
+
+### Day 7: August 1, Friday, 2025
+
+**Today's Progress**: Worked on the Enigma Sombra today, fixed a lot of frontend issues and improved the project structure using alas etc etc etc
+
+**Thoughts:** No thoughts.
+
+**Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
+
+---
