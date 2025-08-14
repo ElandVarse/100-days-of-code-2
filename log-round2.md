@@ -83,3 +83,14 @@
 **Link to work:** [Github](https://github.com/ElandVarse/enigmas-sombra)
 
 ---
+
+
+### Day 8: August 14, Wednesday, 2025
+
+**Today's Progress**: Zoom Image function in Jack Poseidon blog
+
+**Thoughts:** No thoughts.
+
+**Link to work:** [Neocities](https://jack-darwin-poseidon.neocities.org/)
+
+---
